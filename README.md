@@ -1,1 +1,1 @@
-# My-Projects
+Power bi and SQL projects
