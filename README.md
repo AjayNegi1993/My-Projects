@@ -1,4 +1,5 @@
 Power bi and SQL projects
+
 In "data extraction in employees table", following questions have been solved.
 
 Q.1 find out the highest earning employees details from each department?
